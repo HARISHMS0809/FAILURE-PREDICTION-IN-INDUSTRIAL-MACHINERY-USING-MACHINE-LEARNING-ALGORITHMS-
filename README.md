@@ -1,2 +1,1 @@
-# FAILURE-PREDICTION-IN-INDUSTRIAL-MACHINERY-USING-MACHINE-LEARNING-ALGORITHMS-
-This project focuses on predicting mechanical failures in industrial machines using advanced machine learning algorithms. By analyzing sensor and operational data, the system identifies potential breakdowns before they occur  enabling predictive maintenance, reducing downtime, and improving overall efficiency.
+there are 2 datasets 1 with 1000 data points and another with 10000 datapoints code for both the datasets are given 6 models have be trained for both the datasets and the program will provide you with the best algorithm out of the 6 ML algorithms trained with hyperparameter tuning using a voting classifier
